@@ -1,69 +1,67 @@
-
 package com.example.wisata_samarinda
 
 object DataWisata {
 
-    val listData: ArrayList<Wisata> = arrayListOf(
+    val listData = arrayListOf(
 
         Wisata(
             "Islamic Center Samarinda",
-            "Masjid Baitul Muttaqien yang berada di tepi Sungai Mahakam dan menjadi salah satu ikon Kota Samarinda.",
-            "https://picsum.photos/seed/islamiccenter/300/300"
+            "Masjid megah yang menjadi salah satu ikon wisata religi di Samarinda.",
+            R.drawable.islamic_center_samarinda
         ),
 
         Wisata(
             "Tepian Sungai Mahakam",
-            "Kawasan tepi sungai untuk bersantai, menikmati pemandangan Sungai Mahakam, dan berburu kuliner.",
-            "https://picsum.photos/seed/tepianmahakam/300/300"
+            "Tempat wisata untuk menikmati pemandangan Sungai Mahakam.",
+            R.drawable.tepian_sungai_mahakam
         ),
 
         Wisata(
             "Desa Budaya Pampang",
-            "Desa wisata budaya Dayak Kenyah yang terkenal dengan rumah adat Lamin dan pertunjukan tari tradisional.",
-            "https://picsum.photos/seed/pampang/300/300"
+            "Tempat wisata untuk mengenal budaya dan tradisi masyarakat Dayak.",
+            R.drawable.desa_budaya_pampang
         ),
 
         Wisata(
             "Air Terjun Tanah Merah",
-            "Wisata alam berupa air terjun yang dikelilingi pepohonan dan suasana alam yang asri.",
-            "https://picsum.photos/seed/tanahmerah/300/300"
+            "Wisata alam berupa air terjun dengan suasana yang asri.",
+            R.drawable.air_terjun_tanah_merah
         ),
 
         Wisata(
             "Kebun Raya Unmul Samarinda",
-            "Kawasan wisata alam dengan pepohonan rindang dan lingkungan hijau yang cocok untuk rekreasi keluarga.",
-            "https://picsum.photos/seed/kebunrayaunmul/300/300"
+            "Kawasan wisata alam dengan berbagai koleksi tumbuhan.",
+            R.drawable.kebun_raya_unmul
         ),
 
         Wisata(
             "Masjid Shiratal Mustaqiem",
-            "Masjid bersejarah di Samarinda Seberang yang dikenal dengan bangunan kayu ulin dan nilai sejarahnya.",
-            "https://picsum.photos/seed/shiratalmustaqiem/300/300"
+            "Masjid bersejarah yang menjadi salah satu wisata religi Samarinda.",
+            R.drawable.masjid_shiratal_mustaqiem
         ),
 
         Wisata(
             "Kampung Tenun Samarinda",
-            "Sentra kerajinan sarung tenun khas Samarinda yang memperlihatkan proses pembuatan kain tradisional.",
-            "https://picsum.photos/seed/kampungtenun/300/300"
+            "Tempat untuk mengenal kerajinan kain tenun khas Samarinda.",
+            R.drawable.kampung_tenun_samarinda
         ),
 
         Wisata(
             "Taman Samarendah",
-            "Taman kota di pusat Samarinda yang memiliki area hijau dan menjadi tempat masyarakat bersantai.",
-            "https://picsum.photos/seed/samarendah/300/300"
+            "Ruang terbuka hijau yang menjadi tempat bersantai masyarakat.",
+            R.drawable.taman_samarendah
         ),
 
         Wisata(
             "Taman Bebaya",
-            "Ruang terbuka di kawasan tepian Sungai Mahakam yang dapat digunakan untuk bersantai dan menikmati suasana kota.",
-            "https://picsum.photos/seed/tamanbebaya/300/300"
+            "Taman kota yang menjadi salah satu tempat rekreasi di Samarinda.",
+            R.drawable.taman_bebaya
         ),
 
         Wisata(
             "Jembatan Mahkota II",
-            "Jembatan yang menghubungkan kawasan Samarinda Seberang dan Palaran serta menawarkan pemandangan Sungai Mahakam.",
-            "https://picsum.photos/seed/mahkota2/300/300"
+            "Salah satu jembatan yang menjadi ikon Kota Samarinda.",
+            R.drawable.jembatan_mahkota_ii
         )
-
     )
 }
